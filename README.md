@@ -43,7 +43,6 @@ I'm a Computer Engineering student with a passion for cybersecurity, AI, and clo
 ## Positions of Responsibility
 
 - **Campus Ambassador** | MyGov Campus (2024 - Present)
-- **Microsoft Learn Student Ambassador** (2024 - Present)
 
 ## Connect with Me
 
