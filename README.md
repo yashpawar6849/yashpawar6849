@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 𝗛ello!👋𝗜'𝗺 Yash Pawar
 I'm a Computer Engineering student with a passion for Blockchain, AI/ML, and Cloud technologies. I enjoy building real-world projects and contributing to open-source initiatives.<br><br>🔭 I’m currently working on enhancing my skills through various Open-Source Programs and Hackathons.<br>🌱 I’m currently learning Blockchain technology , Kubernetes, and Docker.<br>👯 I’m looking to collaborate on projects related to AI/ML, Blockchain, and Web development.<br>💬 Ask me about Java, Javascript, and Web development technologies.<br>📫 How to reach me: rekhaspawar7@gmail.com
 
 
