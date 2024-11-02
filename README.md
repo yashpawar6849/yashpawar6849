@@ -4,7 +4,7 @@ I'm a Computer Engineering student with a passion for Blockchain, AI/ML, and Clo
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yashpawar6849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashpawar6849" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-sanjivkumar-pawar-862702287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-sanjivkumar-pawar-862702287/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https:[//www.linkedin.com/in/yash-sanjivkumar-pawar-862702287/](https://www.linkedin.com/in/yash-pawar-862702287/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-sanjivkumar-pawar-862702287/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/yashpawar6849/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yashpawar6849/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/pFbRYypt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/pFbRYypt" height="30" width="40" /></a>
 </p>
