@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpawar6849&label=Profile%20views&color=0e75b6&style=flat" alt="yashpawar6849" /> </p>
 
+[![DevStats Card](https://devstats.me/yashpawar6849=tico88612)](https://github.com/tico88612/devstats-card)
+
 - 🌱 I’m currently working on **Enhancing my skills through various Open-Source Programs and Hackathons.**
 
 - 📫 How to reach me **rekhaspawar7@gmail.com**
