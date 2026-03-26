@@ -16,7 +16,7 @@
 
 ---
 
-## kubectl get nodes --context=yash-pawar
+## kubectl get nodes --context=yashpawar6849
 
 ```
 NAME           STATUS   ROLES        AGE   VERSION
