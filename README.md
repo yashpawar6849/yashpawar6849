@@ -13,7 +13,6 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 </div>
-
 ---
 
 ## kubectl get nodes --context=yash-pawar
@@ -24,7 +23,6 @@ gke-node-001   Ready    DevOps        3y   v1.29
 gke-node-002   Ready    Frontend      3y   v1.29
 gke-node-003   Ready    Advocacy      3y   v1.29
 ```
-
 ---
 
 ## CI/CD Pipeline
@@ -32,7 +30,6 @@ gke-node-003   Ready    Advocacy      3y   v1.29
 ```
 Code Push → GitHub Actions → Docker Build → GCR Push → GKE Deploy
 ```
-
 ---
 
 ## Currently Running
@@ -43,7 +40,6 @@ Code Push → GitHub Actions → Docker Build → GCR Push → GKE Deploy
 | 📡 Observability | Grafana · Loki · OpenTelemetry in production | Running |
 | 🎙 Advocacy | Giving talks around the cloud-native ecosystem | Running |
 | ◈ CNCG Nashik | Co-Organizing CNCG Nashik Community | Running |
-
 ---
 
 ## Observability Stack
@@ -56,7 +52,6 @@ OpenTelemetry Collector
 Loki          Grafana
 (Logs)     (Dashboards & Alerts)
 ```
-
 ---
 
 ## Tech Stack
@@ -92,14 +87,12 @@ Loki          Grafana
 - 🌐 Co-Organizer CNCG Nashik
 - 💬 Topics: Kubernetes, GKE, Observability, CI/CD, Developer Tooling
 - 🤝 Open to collaborate on Open Source projects
-
 ---
 
 ## Connect
 
 - ✉ rekhaspawar7@gmail.com
 - 🤝 Open to speaking invites & open source collaboration
-
 ---
 
 <div align="center">
