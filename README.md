@@ -1,23 +1,107 @@
-<h1 align="center">Hello 👋, I am Yash</h1>
-<h3 align="center">Front-End Developer and  DevOps Enthusiast</h3>
-<p> Hello I'm Yash Pawar, Organizer Microsoft Learn Students Community KBTCOE. I'm a Front-End Developer & JavaScript Developer. I'm Always Open to Contribute to Open Source Projects in meaningful ways and come up with innovative ideas.</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpawar6849&label=Profile%20views&color=0e75b6&style=flat" alt="yashpawar6849" /> </p>
 
 
-- 🌱 I’m currently working on **Enhancing my skills through various Open-Source Programs and Hackathons.**
+# Yash Pawar
+### DevOps Engineer · GKE Practitioner · Community Speaker
 
-- 📫 How to reach me **rekhaspawar7@gmail.com**
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/GKE-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![](https://img.shields.io/badge/Loki-F5A623?style=flat&logo=grafana&logoColor=white)
+![](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- 👨‍💻 Deep learning **Blockchain technology, Kubernetes And Docker.**
+</div>
 
-- 💬 Ask me about **JavaScript And Web Development technologies.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yashpawar6849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashpawar6849" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yash-sanjivkumar-pawar-862702287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-sanjivkumar-pawar-862702287/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yashpawar6849/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yashpawar6849/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@yashpawar6849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yashpawar6849" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/pFbRYypt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/pFbRYypt" height="30" width="40" /></a>
-</p>
+## kubectl get nodes --context=yash-pawar
+
+```
+NAME           STATUS   ROLES        AGE   VERSION
+gke-node-001   Ready    DevOps        3y   v1.29
+gke-node-002   Ready    Frontend      3y   v1.29
+gke-node-003   Ready    Advocacy      3y   v1.29
+```
+
+---
+
+## CI/CD Pipeline
+
+```
+Code Push → GitHub Actions → Docker Build → GCR Push → GKE Deploy
+```
+
+---
+
+## Currently Running
+
+| Pod | Description | Status |
+|-----|-------------|--------|
+| ⚙ GKE Deep-Dive | Workloads, Helm charts, Autoscaling & RBAC | Running |
+| 📡 Observability | Grafana · Loki · OpenTelemetry in production | Running |
+| 🎙 Advocacy | Giving talks around the cloud-native ecosystem | Running |
+| ◈ CNCG Nashik | Co-Organizing CNCG Nashik Community | Running |
+
+---
+
+## Observability Stack
+
+```
+App Instrumentation (OTel SDK)
+        ↓
+OpenTelemetry Collector
+   ↙          ↘
+Loki          Grafana
+(Logs)     (Dashboards & Alerts)
+```
+
+---
+
+## Tech Stack
+
+**DevOps & Cloud**
+
+![GKE](https://img.shields.io/badge/GKE-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+
+**Observability**
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white)
+
+**Frontend & Dev**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Advocacy & Speaking
+
+- 🎙 Giving talks around the cloud-native & DevOps ecosystem
+- 🌐 Co-Organizer CNCG Nashik
+- 💬 Topics: Kubernetes, GKE, Observability, CI/CD, Developer Tooling
+- 🤝 Open to collaborate on Open Source projects
+
+---
+
+## Connect
+
+- ✉ rekhaspawar7@gmail.com
+- 🤝 Open to speaking invites & open source collaboration
+
+---
+
+<div align="center">
+<i>"Observe everything. Automate the rest."</i>
+</div>
